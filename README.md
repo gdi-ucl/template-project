@@ -4,7 +4,7 @@
 
 **Replace this title and introduction with your project’s content.** This repository is a reusable starting point for a GDI project, publication or research tool.
 
-[Use this template](https://github.com/gdi-ucl/project-template/generate) · [Copy the blank format](COPY-THIS-README.md) · [See a completed example](https://github.com/gdi-ucl/innovate-now-lessons) · [Uploading help](START-HERE.md)
+[Use this template](https://github.com/gdi-ucl/template-project/generate) · [Copy the blank format](COPY-THIS-README.md) · [See a completed example](https://github.com/gdi-ucl/publications-and-reports/tree/main/innovate-now) · [Uploading help](START-HERE.md)
 
 ## Make it yours
 
@@ -19,4 +19,8 @@
 
 A title, a short explanation, a named contact and a useful file/publication link. Add other sections only when they help your readers.
 
-For an example of this format filled with real source information, open [Innovate Now: Lessons](https://github.com/gdi-ucl/innovate-now-lessons).
+For an example of this format filled with real source information, open [Innovate Now: Lessons](https://github.com/gdi-ucl/publications-and-reports/tree/main/innovate-now).
+
+## Adding a publication to the shared collection
+
+For a publication summary, [add a folder to publications-and-reports](https://github.com/gdi-ucl/publications-and-reports/blob/main/ADD-A-PUBLICATION.md). Use this template for projects needing a separate repository. [Convert an existing project](MIGRATION.md).

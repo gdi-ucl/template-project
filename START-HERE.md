@@ -2,7 +2,7 @@
 
 ## 1. Create
 
-[Use this template](https://github.com/gdi-ucl/project-template/generate). Choose the project owner, a short repository name and Public or Private. Creating inside gdi-ucl requires membership and repository-creation permission. Everyone can read this public template without joining.
+[Use this template](https://github.com/gdi-ucl/template-project/generate). Choose the project owner, a short repository name and Public or Private. Creating inside gdi-ucl requires membership and repository-creation permission. Everyone can read this public template without joining.
 
 ## 2. Fill in
 
@@ -30,6 +30,8 @@ Start with the publication title, verified author information, a short original 
 
 ## Help
 
-[Completed report example](https://github.com/gdi-ucl/innovate-now-lessons) · [GDI directory](https://github.com/gdi-ucl/gdi-hub)
+[Completed report example](https://github.com/gdi-ucl/publications-and-reports/tree/main/innovate-now) · [GDI directory](https://github.com/gdi-ucl/start-here)
 
 [GitHub upload guidance](https://docs.github.com/en/repositories/working-with-files/managing-files/adding-a-file-to-a-repository) · [UCL service scope](https://www.ucl.ac.uk/research-innovation/advanced-research-computing/platforms-and-services/research-software-development/research-software-development-tools/support-ucl-researchers-use-github)
+
+For an existing project, follow [MIGRATION.md](MIGRATION.md). For a report/paper in the shared collection, follow [Add a publication](https://github.com/gdi-ucl/publications-and-reports/blob/main/ADD-A-PUBLICATION.md).
